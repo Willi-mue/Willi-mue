@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey, schön, dass du hier bist!
 
-<!--
-**Willi-mue/Willi-mue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich
 
-Here are some ideas to get you started:
+Hallo! Ich bin ein leidenschaftlicher Softwareentwickler mit einem breiten Spektrum an Fähigkeiten und Interessen in der Welt
+der Programmierung. Mein Ziel ist es, durch kreative Lösungen und robuste Softwarecode Projekte umzusetzen, die echten Mehrwert schaffen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Fähigkeiten
+
+Ich habe Erfahrung mit:
+
+### Programmiersprachen
+- **C++**: Leistungsstarke Softwareentwicklung und Algorithmendesign
+- **Python**: Datenanalyse und Skripterstellung
+- **R**: Statistische Analysen und Datenvisualisierung
+- **Java**: Plattformübergreifende Anwendungen
+- **Scala**: Funktionale und objektorientierte Programmierung
+
+### Webentwicklung
+- **CSS/SCSS**: Gestaltung moderner und responsiver Benutzeroberflächen
+
+### Tools und Frameworks
+- Git und Versionskontrolle
+- Docker: Containerisierung und Deployment
+
+## 🌱 Derzeit lerne ich
+- **Rust**: Für sichere und effiziente Systemprogrammierung
+
+## 💡 Kontakt
+
+Ich freue mich über deine Nachricht oder Ideen zu spannenden Projekten.
+
+---
+
+✨ Danke fürs Vorbeischauen! 
