@@ -2,8 +2,8 @@
 
 ## Über mich
 
-Hallo! Ich bin ein leidenschaftlicher Softwareentwickler mit einem breiten Spektrum an Fähigkeiten und Interessen in der Welt
-der Programmierung. Mein Ziel ist es, durch kreative Lösungen und robuste Softwarecode Projekte umzusetzen, die echten Mehrwert schaffen.
+Hi! Ich bin ein angehender Softwareentwickler mit viel Begeisterung für alles rund ums Programmieren. 
+Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur funktioniert, sondern auch wirklich nützlich ist.
 
 ## 🌟 Fähigkeiten
 
