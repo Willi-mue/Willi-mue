@@ -8,8 +8,6 @@ Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur 
 
 ## 🌟 Fähigkeiten
 
-Ich habe Erfahrung mit:
-
 ### 💻 Programmiersprachen
 - <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="vertical-align:middle; width:40px;"> : Leistungsstarke Softwareentwicklung und Algorithmendesign
 - <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="vertical-align:middle; width:40px;"> : Datenanalyse und Skripterstellung
@@ -26,11 +24,3 @@ Ich habe Erfahrung mit:
 
 ## 🌱 Derzeit lerne ich
 - <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="vertical-align:middle; width:40px;"> : Für sichere und effiziente Systemprogrammierung
-
-## 💡 Kontakt
-
-Ich freue mich über deine Nachricht oder Ideen zu spannenden Projekten.
-
----
-
-✨ Danke fürs Vorbeischauen! Vielleicht starten wir ja bald ein gemeinsames Projekt? 🚀
