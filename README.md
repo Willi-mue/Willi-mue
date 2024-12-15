@@ -11,21 +11,21 @@ Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur 
 Ich habe Erfahrung mit:
 
 ### 💻 Programmiersprachen
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) **C++**: Leistungsstarke Softwareentwicklung und Algorithmendesign
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**: Datenanalyse und Skripterstellung
-- ![R](https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png) **R**: Statistische Analysen und Datenvisualisierung
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**: Plattformübergreifende Anwendungen
-- ![Scala](https://img.icons8.com/color/48/000000/scala.png) **Scala**: Funktionale und objektorientierte Programmierung
+- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="vertical-align:middle; width:40px;"> : Leistungsstarke Softwareentwicklung und Algorithmendesign
+- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="vertical-align:middle; width:40px;"> : Datenanalyse und Skripterstellung
+- <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png" alt="R" style="vertical-align:middle; width:40px;"> : Statistische Analysen und Datenvisualisierung
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="vertical-align:middle; width:40px;"> : Plattformübergreifende Anwendungen
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" style="vertical-align:middle; width:40px;"> : Funktionale und objektorientierte Programmierung
 
 ### 🌐 Webentwicklung
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) **CSS/SCSS**: Gestaltung moderner und responsiver Benutzeroberflächen
+- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="vertical-align:middle; width:40px;"> : Gestaltung moderner und responsiver Benutzeroberflächen
 
 ### 🔧 Tools und Frameworks
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git und Versionskontrolle
-- ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker: Containerisierung und Deployment
+- <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="vertical-align:middle; width:40px;"> : Versionskontrolle
+- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="vertical-align:middle; width:40px;"> : Containerisierung und Deployment
 
 ## 🌱 Derzeit lerne ich
-- ![Rust](https://img.icons8.com/color/48/000000/rust-programming-language.png) **Rust**: Für sichere und effiziente Systemprogrammierung
+- <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="vertical-align:middle; width:40px;"> : Für sichere und effiziente Systemprogrammierung
 
 ## 💡 Kontakt
 
@@ -34,4 +34,3 @@ Ich freue mich über deine Nachricht oder Ideen zu spannenden Projekten.
 ---
 
 ✨ Danke fürs Vorbeischauen! Vielleicht starten wir ja bald ein gemeinsames Projekt? 🚀
-
