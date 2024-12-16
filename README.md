@@ -8,19 +8,48 @@ Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur 
 
 ## 🌟 Fähigkeiten
 
-### 💻 Programmiersprachen
-- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="vertical-align:middle; width:40px;"> : Leistungsstarke Softwareentwicklung und Algorithmendesign
-- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="vertical-align:middle; width:40px;"> : Datenanalyse und Skripterstellung
-- <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png" alt="R" style="vertical-align:middle; width:40px;"> : Statistische Analysen und Datenvisualisierung
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="vertical-align:middle; width:40px;"> : Plattformübergreifende Anwendungen
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" style="vertical-align:middle; width:40px;"> : Funktionale und objektorientierte Programmierung
+### 💻 Programmiersprachen  
 
-### 🌐 Webentwicklung
-- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style="vertical-align:middle; width:40px;"> : Gestaltung moderner und responsiver Benutzeroberflächen
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png" alt="R" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" style="width: 80px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/markdown.png" alt="Markdown" style="width: 40px; height: 40px; margin-right: 10px;">
+</div>
 
-### 🔧 Tools und Frameworks
-- <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="vertical-align:middle; width:40px;"> : Versionskontrolle
-- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="vertical-align:middle; width:40px;"> : Containerisierung und Deployment
+### 📊 Datenanalyse und Visualisierung  
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Matplotlib" style="width: 80px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" style="width: 40px; height: 40px; margin-right: 10px;">
+</div>
 
-## 🌱 Derzeit lerne ich
-- <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="vertical-align:middle; width:40px;"> : Für sichere und effiziente Systemprogrammierung
+### 🌐 Webentwicklung  
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 40px; height: 40px; margin-right: 10px;">
+</div>
+
+### 🔧 Tools und Frameworks  
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 40px; height: 40px; margin-right: 10px;">
+</div>
+
+### 🌱 Derzeit lerne ich  
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="width: 40px; height: 40px; margin-right: 10px;">
+</div>
+
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+Hier ist dein Text in einer hellgrauen Box.
+Du kannst auch mehrere Zeilen hinzufügen.
+</div>
