@@ -44,7 +44,7 @@ Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur 
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
 
-### 🌱 Derzeit lerne ich  
+## 🌱 Derzeit lerne ich  
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
