@@ -1,4 +1,4 @@
-# 👋 Hey, schön, dass du hier bist!
+# 👋 Hi, ich bin Willi!
 
 ## 🙋 Über mich
 
