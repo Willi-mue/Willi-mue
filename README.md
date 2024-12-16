@@ -48,8 +48,3 @@ Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur 
 <div style="display: flex; align-items: center;">
   <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
-
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-Hier ist dein Text in einer hellgrauen Box.
-Du kannst auch mehrere Zeilen hinzufügen.
-</div>
