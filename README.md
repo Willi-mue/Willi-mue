@@ -41,7 +41,10 @@ Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur 
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
 
-## 🌱 Derzeit lerne ich  
+## 🌱 Derzeit lerne ich 
 <div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/rust-programming-language.png" alt="Rust" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" style="width: 40px; height: 40px; margin-right: 10px;">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
