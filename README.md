@@ -16,7 +16,6 @@ Ich liebe es, kreative Lösungen zu finden und Code zu schreiben, der nicht nur 
   <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png" alt="R" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 40px; height: 40px; margin-right: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Scala-full-color.svg" alt="Scala" style="width: 80px; height: 40px; margin-right: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/markdown.png" alt="Markdown" style="width: 40px; height: 40px; margin-right: 10px;">
 </div>
 
 ### 📊 Datenanalyse und Visualisierung  
