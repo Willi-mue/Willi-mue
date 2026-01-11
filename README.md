@@ -2,8 +2,6 @@
 
 **Softwareentwickler mit Fokus auf Fullstack-Entwicklung sowie praktische Erfahrung im Aufbau und Betrieb eigener Server-Infrastrukturen.**
 
----
-
 ## 🌟 Tech Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
