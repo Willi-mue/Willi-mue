@@ -1,6 +1,6 @@
 # 👋 Hi, ich bin Willi!
 
-**Softwareentwickler mit Fokus auf Fullstack-Entwicklung**
+**Softwareentwickler mit Fokus auf Fullstack-Entwicklung**\n
 **sowie praktische Erfahrung im Aufbau und Betrieb eigener Server-Infrastrukturen.**
 
 ## 🌟 Tech Stack
